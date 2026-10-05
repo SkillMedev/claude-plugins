@@ -1,0 +1,17 @@
+{
+  "name": "qa-test-automation",
+  "displayName": "QA & Test Automation",
+  "version": "0.1.0",
+  "description": "For engineers who don't trust their test suite: catch real bugs and kill the flake. 9 skills from the Skill Me catalog.",
+  "author": {
+    "name": "Skill Me",
+    "url": "https://skillme.dev"
+  },
+  "homepage": "https://skillme.dev/pack/qa-test-automation",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent-skills",
+    "coding"
+  ]
+}

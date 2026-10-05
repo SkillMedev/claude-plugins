@@ -1,0 +1,17 @@
+{
+  "name": "mobile-app-engineering",
+  "displayName": "Mobile App Engineering",
+  "version": "0.1.0",
+  "description": "For mobile engineers: build native + cross-platform apps and ship them past store review. 8 skills from the Skill Me catalog.",
+  "author": {
+    "name": "Skill Me",
+    "url": "https://skillme.dev"
+  },
+  "homepage": "https://skillme.dev/pack/mobile-app-engineering",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent-skills",
+    "coding"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "database-performance",
+  "displayName": "Database Performance & Administration",
+  "version": "0.1.0",
+  "description": "For backend engineers: make slow queries fast and keep production Postgres healthy. 8 skills from the Skill Me catalog.",
+  "author": {
+    "name": "Skill Me",
+    "url": "https://skillme.dev"
+  },
+  "homepage": "https://skillme.dev/pack/database-performance",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent-skills",
+    "data"
+  ]
+}

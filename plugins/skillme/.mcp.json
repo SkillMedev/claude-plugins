@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "skillme": {
+      "type": "http",
+      "url": "https://skillme.dev/api/mcp"
+    }
+  }
+}

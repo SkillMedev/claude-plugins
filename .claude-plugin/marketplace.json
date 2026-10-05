@@ -1,0 +1,34 @@
+{
+  "name": "skillme",
+  "owner": {
+    "name": "Skill Me",
+    "url": "https://skillme.dev"
+  },
+  "description": "Skill Me plugins for Claude Code: the Skill Me connector and first-party developer skill packs.",
+  "plugins": [
+    {
+      "name": "skillme",
+      "source": "./plugins/skillme",
+      "description": "Connect Claude Code to Skill Me: search 2,500+ agent skills, install them into your library, and load them in any session.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "qa-test-automation",
+      "source": "./plugins/qa-test-automation",
+      "description": "For engineers who don't trust their test suite: catch real bugs and kill the flake. 9 skills from the Skill Me catalog.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "mobile-app-engineering",
+      "source": "./plugins/mobile-app-engineering",
+      "description": "For mobile engineers: build native + cross-platform apps and ship them past store review. 8 skills from the Skill Me catalog.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "database-performance",
+      "source": "./plugins/database-performance",
+      "description": "For backend engineers: make slow queries fast and keep production Postgres healthy. 8 skills from the Skill Me catalog.",
+      "version": "0.1.0"
+    }
+  ]
+}
